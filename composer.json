@@ -22,11 +22,5 @@
     "support": {
         "issues": "https://github.com/raphaelsuzuki/cmb2-field-ajax-search/issues",
         "source": "https://github.com/raphaelsuzuki/cmb2-field-ajax-search/"
-    },
-    "require": {
-        "php": ">5.2.4"
-    },
-    "suggest": {
-        "composer/installers": "~1.0"
     }
 }
